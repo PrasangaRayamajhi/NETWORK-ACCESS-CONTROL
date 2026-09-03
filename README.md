@@ -1,5 +1,6 @@
 PLEASE READ THE REPORT AND FOLLOW THE INSTRUCTIONS PROVIDED THERE
-This document shows how a Network Access Control (NAC) system was built specifically for
+
+A Network Access Control (NAC) system was built specifically for
 institutions to resolve the current necessity for secure network access within environments where
 internet usage is widespread and BYOD policy is prevalent. Under VirtualBox control of four
 virtual machines (Switch-VM, Policy-Server, Client-1, Client-2) the system fulfills its four
